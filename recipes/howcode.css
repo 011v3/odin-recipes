@@ -1,0 +1,15 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    font-size: 12px;
+    background: black;
+}
+
+h1 {
+    color: red;
+}
+
+.list {
+    color: white;
+    font-size: 8px;
+}

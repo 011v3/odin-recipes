@@ -1,0 +1,19 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 86px;
+    color:thistle;
+    background-color: indigo;
+}
+
+h1 {
+    font-size: 43px;
+}
+
+p {
+    font-size: 21px;
+}
+
+.list {
+    margin: 10px;
+    padding: 86px;
+}
