@@ -9,5 +9,8 @@ h1 {
 }
 
 ol {
+    list-style-type: lower-greek;
     background-color: bisque;
+    padding: 5px;
+    margin: 69px;
 }
