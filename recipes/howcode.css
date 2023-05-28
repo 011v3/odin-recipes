@@ -1,7 +1,7 @@
 body {
     font-family:'Courier New', Courier, monospace;
     color: white;
-    font-size: 12px;
+    font-size: 45px;
     background: black;
 }
 
@@ -11,5 +11,8 @@ h1 {
 
 .list {
     color: white;
-    font-size: 8px;
+    font-size: 23px;
+    border: solid white 1px;
+    list-style: none;
+    display:block;
 }

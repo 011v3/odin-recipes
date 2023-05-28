@@ -17,8 +17,20 @@ a {
     color:skyblue;
     background-color:midnightblue;
     text-align: left;
+    margin: 0px;
 }
 
-img {
-    position: relative;
+a.hover {
+    background-color: cornflowerblue;
+
+}
+
+.links {
+    display:inline-block;
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+    padding: 15%;
 }
